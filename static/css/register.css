@@ -1,0 +1,29 @@
+.center {
+    # border: 5px solid;
+    # text-align: center;
+    # display: flex;
+    # justify-contect: center;
+    margin: auto;
+    # width: 20%;
+    height: 20px;
+    width: 500px;
+    padding: 3px;
+}
+
+.register_button {
+    text-align: center;
+    margin: auto;
+    width: 500px;
+    color: grey;
+    font-size: 20px;
+    padding: 20px 20px;
+    # display: inline-block;
+    cursor: pointer;
+}
+
+.p {
+    margin: auto;
+    width: 500px;
+    color: grey;
+    font-size: 14px;
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>control_demo</title>
+</head>
+<body>
+{% if age > 18 %}
+    <div>You can enter Web bar</div>
+{% elif age == 18 %}
+    <div>You can enter Web bar with parents</div>
+{% else %}
+    <div>You cannot enter Web bar</div>
+{% endif %}
+
+{% for book in books %}
+    <div>book name: {{ book['name'] }}, author: {{ book['author'] }}</div>
+{% endfor %}
+</body>
+</html>
