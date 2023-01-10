@@ -12,7 +12,7 @@ My plan is:
 The tutorial for the basic syntax[^1] for .md is [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 <!-- You may notice that this .md file is used for trying the syntax from the tutorial, which means actually I don't have a plan for this project now :joy: -->
 
-[^1]The syntax I used in this README markdown file
+[^1]:The syntax I used in this README markdown file
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
